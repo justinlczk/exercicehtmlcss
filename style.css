@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;;
+}
+
+nav {
+    position: fixed;
+    width: 100vw;
+    top: 0;
+    left: 0;
+    height: 60px;
+}
+
+svg .fill-inherit {
+    fill:inherit
+}
+
+svg .fill-color1 {
+    fill:#333
+}
+
+svg .fill-color2 {
+    fill:inherit
+}
+
+svg .fill-color3 {
+    fill:#abc737
+}
+
+svg.logo-alsacreations {
+    fill: #4a4949;
+    height: 3rem;
+    width:15.8rem
+}
+
+.button_gradient {
+    background: linear-gradient(90deg, rgb(37, 119, 0) 0%, rgb(171, 199, 55) 100%);
+}
+
+.menu_home, .menu_home svg {
+    width: 158px;
+    height: 37px;
+}
+
+header {
+    margin-top: 60px;
+}
